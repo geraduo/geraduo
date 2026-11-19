@@ -1,48 +1,44 @@
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=220&section=header&text=geraduo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-    alt="Баннер профиля geraduo"
-  />
 
-  <h1>Привет, я geraduo 👋</h1>
-  <p><strong>Создаю проекты · исследую технологии · учусь новому</strong></p>
-  <p>
-    <a href="https://github.com/geraduo?tab=repositories">Все репозитории →</a>
-  </p>
+# `geraduo`
+
+### Malware Developer
+
+`low-level code` · `binary research` · `reverse engineering`
+
+![Profile views](https://komarev.com/ghpvc/?username=geraduo&style=flat-square&color=7c3aed&label=visitors)
+
 </div>
 
 ---
 
-## ✨ Обо мне
+## About
 
-Собираю здесь свои проекты, эксперименты и полезные наработки. Люблю превращать идеи в работающие решения и постоянно узнавать что-то новое.
+I work at the intersection of code, binaries, and operating systems.
 
-## 📊 GitHub в цифрах
+This profile is a collection of projects, experiments, and technical notes related to malware development, low-level programming, and reverse engineering.
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=geraduo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Статистика GitHub"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraduo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Популярные языки программирования"
-  />
-</p>
+## Focus
 
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=geraduo&theme=tokyo-night&hide_border=true&area=true"
-    alt="График активности GitHub"
-  />
-</p>
+- Malware development
+- Windows and Linux internals
+- PE / ELF binaries
+- Reverse engineering and debugging
+- C / C++ · Rust · Python · Assembly
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=geraduo&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraduo&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
 
 ---
 
-<p align="center">
-  Спасибо, что заглянул! Если проект оказался полезным — буду рад звёздочке ⭐
-</p>
+<div align="center">
+
+`no face. no noise. just code.`
+
+</div>
