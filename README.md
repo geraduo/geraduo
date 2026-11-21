@@ -1,17 +1,27 @@
-![](1.jpg)
-# //Just existing
+<div align="center">
+  <!-- Замени ссылку ниже на URL твоей верхней картинки -->
+  <img src="1.jpg" width="750" alt="Header Art" />
+  
+  <h3><code>// Waiting for interrupt</code></h3>
+</div>
 
-## What I do
-Game Hacking>>Reverse Engineering>Malware Development
+---
 
-## Languages
-C++, x86/x64 ASM
+### `01` // Focus
+* **Game Hacking** `>` **Reverse Engineering** `>` **Malware Development**
 
-## Currently working on
-Developing a hypervisor for Game Hacking
+### `02` // Stack & Low-Level
+* **Languages:** `C` · `C++` · `x86/x64 Assembly`
 
-## Contacts
-Signal: geraduo.01
+### `03` // Current Project
+> 🛠️ **Developing a custom Hypervisor** focused on Game Hacking.
 
-![](2.jpg)
+### `04` // Contacts
+* **Signal:** `geraduo.01`
 
+---
+
+<div align="center">
+  <!-- Замени ссылку ниже на URL твоей нижней картинки -->
+  <img src="2.jpg" width="750" alt="Footer Art" />
+</div>
