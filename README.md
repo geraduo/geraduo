@@ -20,9 +20,8 @@
 
 ---
 
+<div align="center">
 <h6><code><i>// ...'Cause that path led nowhere.</i></code></h6>
 
-
-<div align="center">
-  <img src="2.jpg" width="480" alt="Footer Art" />
+<img src="2.jpg" width="480" alt="Footer Art" />
 </div>
