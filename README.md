@@ -7,7 +7,7 @@
 ---
 
 ### `01` // Focus
-* **`Game Hacking`** · `**Reverse Engineering**` · `**Malware Development**` 
+* **`Game Hacking`** · **`Reverse Engineering`** · **`Malware Development`** 
 
 ### `02` // Stack
 * **Languages:** `C` · `C++` · `x86/x64 Assembly`
