@@ -20,7 +20,7 @@
 
 ---
 
-<h3><code><i>// 'Cause that path led nowhere...</i></code></h3>
+<h6><code><i>// 'Cause that path led nowhere...</i></code></h6>
 
 
 <div align="center">
