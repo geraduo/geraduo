@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="1.jpg" width="380" alt="Header Art" />
+  <img src="1.jpg" width="480" alt="Header Art" />
   
   <h3><code>// Waiting for interrupt</code></h3>
 </div>
@@ -21,5 +21,5 @@
 ---
 
 <div align="center">
-  <img src="2.jpg" width="380" alt="Footer Art" />
+  <img src="2.jpg" width="480" alt="Footer Art" />
 </div>
